@@ -15,12 +15,13 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
     "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "^19.1.2",
     "@types/uuid": "latest",
-    "tailwindcss": "^3.3.2",
+    "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
-    "autoprefixer": "^10.4.13"
+    "tailwindcss": "^3.3.2",
+    "typescript": "latest"
   }
 }
