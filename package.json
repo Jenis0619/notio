@@ -1,0 +1,26 @@
+{
+  "name": "mini-folder-navigation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest",
+    "@types/uuid": "latest",
+    "tailwindcss": "^3.3.2",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.13"
+  }
+}
